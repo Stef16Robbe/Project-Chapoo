@@ -1,0 +1,8 @@
+[22:53:13 Tuesday, 14 May 2019]	Verkeerd wachtwoord ingevoerd bij het inloggen.
+-----------------------
+[19:33:22 Wednesday, 15 May 2019]	Geen geldige licentie sleutel bij het registreren.
+-----------------------
+[19:33:28 Wednesday, 15 May 2019]	Geen geldige licentie sleutel bij het registreren.
+-----------------------
+[19:38:38 Wednesday, 15 May 2019]	Verkeerd wachtwoord ingevoerd bij het inloggen.
+-----------------------

@@ -1,0 +1,183 @@
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe.config
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooUI.pdb
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooLogic.dll
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooModel.dll
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooDAL.dll
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooLogic.pdb
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooModel.pdb
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooDAL.pdb
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csprojAssemblyReference.cache
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.ChapooForm.resources
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.LoginUI.resources
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.ManagementPanel.resources
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.OrderPanel.resources
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlCheckOut.resources
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlRegisterOrder.resources
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlTables.resources
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.Properties.Resources.resources
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.GenerateResource.cache
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CoreCompileInputs.cache
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CopyComplete
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.exe
+C:\Users\Stef Robbe\Desktop\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe.config
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooUI.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooLogic.dll
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooModel.dll
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooDAL.dll
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooLogic.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooModel.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooDAL.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csprojAssemblyReference.cache
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.ChapooForm.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.LoginUI.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.ManagementPanel.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlCheckOut.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlRegisterOrder.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlTables.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.Properties.Resources.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.GenerateResource.cache
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CoreCompileInputs.cache
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CopyComplete
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.exe
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlBarKitchenControl.resources
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csprojAssemblyReference.cache
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.exe
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pdb
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe.config
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooUI.pdb
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooLogic.dll
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooModel.dll
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooDAL.dll
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooLogic.pdb
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooModel.pdb
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\bin\Debug\ChapooDAL.pdb
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.ChapooForm.resources
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.LoginUI.resources
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.ManagementPanel.resources
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlBarKitchenControl.resources
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlCheckOut.resources
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlRegisterOrder.resources
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlTables.resources
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.Properties.Resources.resources
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.GenerateResource.cache
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Downloads\Final from Chris Chapoo\Project-Chapoo-master\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CopyComplete
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe.config
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\bin\Debug\ChapooUI.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\bin\Debug\ChapooLogic.dll
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\bin\Debug\ChapooModel.dll
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\bin\Debug\ChapooDAL.dll
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\bin\Debug\ChapooLogic.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\bin\Debug\ChapooModel.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\bin\Debug\ChapooDAL.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.csprojAssemblyReference.cache
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.ChapooForm.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.LoginUI.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.ManagementPanel.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlBarKitchenControl.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlCheckOut.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlRegisterOrder.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlTables.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.Properties.Resources.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.GenerateResource.cache
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CoreCompileInputs.cache
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CopyComplete
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.exe
+C:\Users\cbvro\OneDrive\Bureaublad\Project-Chapoo-Bas\Chapoo\ChapooUI\obj\Debug\ChapooUI.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe.config
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooUI.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooLogic.dll
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooModel.dll
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooDAL.dll
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooLogic.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooModel.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooDAL.pdb
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.csprojAssemblyReference.cache
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.ChapooForm.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.LoginUI.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.ManagementPanel.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlBarKitchenControl.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlCheckOut.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlRegisterOrder.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlTables.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.Properties.Resources.resources
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.GenerateResource.cache
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CoreCompileInputs.cache
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CopyComplete
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.exe
+C:\Users\cbvro\OneDrive\Bureaublad\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.pdb
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe.config
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooUI.pdb
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooLogic.dll
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooModel.dll
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooDAL.dll
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooLogic.pdb
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooModel.pdb
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\bin\Debug\ChapooDAL.pdb
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.csprojAssemblyReference.cache
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.ChapooForm.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.LoginUI.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.ManagementPanel.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlBarKitchenControl.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlCheckOut.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlRegisterOrder.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlTables.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.Properties.Resources.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.GenerateResource.cache
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CoreCompileInputs.cache
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CopyComplete
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.exe
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version\Chapoo\ChapooUI\obj\Debug\ChapooUI.pdb
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe.config
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooUI.pdb
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooLogic.dll
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooModel.dll
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooDAL.dll
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooLogic.pdb
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooModel.pdb
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooDAL.pdb
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.csprojAssemblyReference.cache
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.ChapooForm.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.LoginUI.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.ManagementPanel.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlBarKitchenControl.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlCheckOut.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlRegisterOrder.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlTables.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.Properties.Resources.resources
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.GenerateResource.cache
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CoreCompileInputs.cache
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CopyComplete
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.exe
+C:\Users\Stef\Dropbox\School\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.pdb
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe.config
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooUI.exe
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooUI.pdb
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooLogic.dll
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooModel.dll
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooDAL.dll
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooLogic.pdb
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooModel.pdb
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\bin\Debug\ChapooDAL.pdb
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.csprojAssemblyReference.cache
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.ChapooForm.resources
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.LoginUI.resources
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.ManagementPanel.resources
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlBarKitchenControl.resources
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlCheckOut.resources
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlRegisterOrder.resources
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.pnlTables.resources
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.Properties.Resources.resources
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.GenerateResource.cache
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.csproj.CopyComplete
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.exe
+C:\Users\Stef\Dropbox\School\Jaar 1\Project periode 1.4\Chapoo Final version Stef done\Chapoo\ChapooUI\obj\Debug\ChapooUI.pdb

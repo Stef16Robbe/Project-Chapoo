@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B31EA1B5-BE45-4EA8-B71E-7A4206167C3D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ChapooUI</RootNamespace>
+    <AssemblyName>ChapooUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChapooForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChapooForm.Designer.cs">
+      <DependentUpon>ChapooForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginUI.Designer.cs">
+      <DependentUpon>LoginUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagementPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManagementPanel.Designer.cs">
+      <DependentUpon>ManagementPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pnlBarKitchenControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pnlBarKitchenControl.designer.cs">
+      <DependentUpon>pnlBarKitchenControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pnlCheckOut.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pnlCheckOut.Designer.cs">
+      <DependentUpon>pnlCheckOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pnlRegisterOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pnlRegisterOrder.designer.cs">
+      <DependentUpon>pnlRegisterOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pnlTables.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="pnlTables.Designer.cs">
+      <DependentUpon>pnlTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ChapooForm.resx">
+      <DependentUpon>ChapooForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginUI.resx">
+      <DependentUpon>LoginUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagementPanel.resx">
+      <DependentUpon>ManagementPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pnlBarKitchenControl.resx">
+      <DependentUpon>pnlBarKitchenControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pnlCheckOut.resx">
+      <DependentUpon>pnlCheckOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pnlRegisterOrder.resx">
+      <DependentUpon>pnlRegisterOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pnlTables.resx">
+      <DependentUpon>pnlTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChapooLogic\ChapooLogic.csproj">
+      <Project>{1adb3985-db62-4355-a6b2-c1885fc6658c}</Project>
+      <Name>ChapooLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ChapooModel\ChapooModel.csproj">
+      <Project>{42b9a404-ae2c-4b0d-99de-13c01b7f1e18}</Project>
+      <Name>ChapooModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
